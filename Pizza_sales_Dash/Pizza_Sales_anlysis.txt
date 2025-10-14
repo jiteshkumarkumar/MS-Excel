@@ -1,0 +1,1 @@
+This project focuses on pizza sales analysis. Key performance indicators (KPIs) and sales trends were generated to analyze order patterns, identify the best-selling pizzas, and evaluate sales contribution by pizza size. The SQL queries were thoroughly verified to ensure data accuracy and reliability of the results.
